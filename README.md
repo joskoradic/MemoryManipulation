@@ -1,4 +1,4 @@
-Custom functions for copying memory content
+Custom functions for copying memory content, 
 
 
 bool memory_copy(void* destination, void* source, uint32_t length); // for 8 bit, 16 bit and 32 bit 
